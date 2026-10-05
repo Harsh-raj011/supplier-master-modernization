@@ -10,6 +10,18 @@ The solution addresses supplier master-data challenges by:
 - Publishing supplier information to downstream AP and procurement systems through a REST-based integration.
 - Providing an AI-powered interface for retrieving supplier information using a supplier number.
 
+## My Contribution
+
+This project was completed individually as part of the Oracle Fusion Cloud Applications ERP (Financials) training capstone.
+
+I independently worked on all three solution components:
+
+- Supplier Master Data Conversion
+- Outbound Supplier Integration
+- AI-Studio Supplier Query Agent
+
+The work involved configuring supplier master data conversion and traceability, designing the REST-based supplier integration and data mappings, and configuring the supplier lookup business object, tool, topic and AI agent for conversational supplier information retrieval.
+
 ## Platform & Technologies
 
 - Oracle Fusion Cloud Procurement / Supplier Management
