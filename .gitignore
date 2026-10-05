@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets / credentials
+.env
+*.pem
+*.key
+
+# Local files
+*.zip
+*.log
